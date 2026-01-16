@@ -20,4 +20,4 @@
 - Лекция 8. Чатботы и Агенты
 
 
-(Ссылка)[https://forms.gle/JHZiBPvjAopt7Rta8] на экзаменационный тест
+[Ссылка](https://forms.gle/JHZiBPvjAopt7Rta8) на экзаменационный тест
